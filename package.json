@@ -3,12 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "electron": "^1.7.10",
-    "electron-builder": "^19.52.1",
-    "foreman": "^2.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17"
+  },
+  "devDependencies": {
+    "electron": "^1.7.10",
+    "electron-builder": "^19.52.1",
+    "foreman": "^2.0.0"
   },
   "scripts": {
     "dev": "nf start",
